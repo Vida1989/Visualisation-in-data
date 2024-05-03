@@ -1,4 +1,4 @@
-{year:2021, month:'Dec', PlantKey:4, vendorShipment:20, arrivalYard:1.2, goodsReceipt:0},
+    {year:2021, month:'Dec', PlantKey:4, vendorShipment:20, arrivalYard:1.2, goodsReceipt:0},
     {year:2021, month:'Dec', PlantKey:5, vendorShipment:20, arrivalYard:1, goodsReceipt:0.5},
     {year:2021, month:'Dec', PlantKey:6, vendorShipment:20, arrivalYard:2.27, goodsReceipt:0.55},
     {year:2021, month:'Dec', PlantKey:8, vendorShipment:20, arrivalYard:2, goodsReceipt:0},
